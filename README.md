@@ -756,34 +756,34 @@ ORDER BY
 
 - What did we learn?
 
-**📊 Final Analysis & Recommendation**
+**Final Analysis & Recommendation**
 Based on the calculated net profits across different campaign types, here is a breakdown of findings and final recommendations:
 
-**🔹 Key Findings**
-1️⃣ Best Overall ROI: Sponsored Video Series with 24 News HD
+**Key Findings**
+Best Overall ROI: Sponsored Video Series with 24 News HD
 Net profit: $379,952,000 (for 11 videos)
 Extremely high reach and potential return
 Cost-effective compared to other campaigns
-💡 Recommendation: Prioritize 24 News HD for a sponsored video series, as it yields the highest potential revenue and ROI.
+Recommendation: Prioritize 24 News HD for a sponsored video series, as it yields the highest potential revenue and ROI.
 
-2️⃣ Strong ROI from Influencer Marketing with 24 News HD
+Strong ROI from Influencer Marketing with 24 News HD
 Net profit: $34,507,000
 Lower upfront cost ($130,000) vs. the sponsored video series
 Best for a more flexible and shorter campaign
-💡 Recommendation: If the budget is limited, use influencer marketing with 24 News HD instead of a fully sponsored video series.
+Recommendation: If the budget is limited, use influencer marketing with 24 News HD instead of a fully sponsored video series.
 
-3️⃣ Product Placement Campaign (Dan Rhodes Performs Best)
+Product Placement Campaign (Dan Rhodes Performs Best)
 Net profit: $1,090,000 (best among the product placement options)
 Ideal for highly engaged audiences but lower reach than the 24 News HD campaigns
-💡 Recommendation: Use product placement with Dan Rhodes if the goal is to focus on an engaged niche audience rather than massive reach.
+Recommendation: Use product placement with Dan Rhodes if the goal is to focus on an engaged niche audience rather than massive reach.
 
-4️⃣ Dua Lipa and Slogo Have Lower ROI
+Dua Lipa and Slogo Have Lower ROI
 Net profit for Dua Lipa (Influencer Marketing): $4,461,000
 Net profit for Slogo (Sponsored Video Series): $6,229,000
 Both are profitable, but returns are much lower than 24 News HD
-💡 Recommendation: If the budget is tight, avoid these options unless they specifically align with your target audience.
+Recommendation: If the budget is tight, avoid these options unless they specifically align with your target audience.
 
-**🚀 Final Recommendation:** How to Allocate Budget?
+**Final Recommendation:** How to Allocate Budget?
 -Best ROI Approach (If Budget is Unlimited)
 -Invest in a Sponsored Video Series with 24 News HD (Highest ROI)
 -Add Product Placement with Dan Rhodes for additional niche engagement
@@ -796,7 +796,7 @@ Both are profitable, but returns are much lower than 24 News HD
 -Focus on Product Placement with Dan Rhodes (Best low-cost option)
 -Test a single video sponsorship before committing to a full campaign
 
-**🔍 Final Thoughts**
+**Final Thoughts**
 24 News HD offers the best ROI across multiple campaign types.
 Dan Rhodes is the best product placement option for smaller campaigns.
 Avoid Dua Lipa and Slogo unless targeting specific niches.
@@ -804,17 +804,17 @@ Consider testing a small campaign before scaling up.
 
 
 ### Action Plan
-**📌 Action Plan for YouTube Marketing Campaign**
+**Action Plan for YouTube Marketing Campaign**
 Based on the analysis, this action plan will help execute the most profitable and cost-effective YouTube influencer campaign.
 
-**🛠 Step 1: Define Campaign Goals**
-🔹 Objective: Maximize ROI through targeted influencer marketing
-🔹 KPIs: Sales conversion rate (target: 2%+)
+**Step 1: Define Campaign Goals**
+Objective: Maximize ROI through targeted influencer marketing
+KPIs: Sales conversion rate (target: 2%+)
           Total revenue vs. campaign cost
           Engagement rate (likes, comments, shares)
           Brand awareness (growth in followers & website traffic)
 
-**📊 Step 2: Select the Best YouTube Influencers**
+**Step 2: Select the Best YouTube Influencers**
 -Priority 1: 24 News HD (Sponsored Video Series)
 -11-video series ($55,000)
 -Expected revenue: $380M+
@@ -828,7 +828,7 @@ Based on the analysis, this action plan will help execute the most profitable an
 -Backup: NoCopyrightSounds & DanTDM (if budget allows)
 -Low-cost, engaged audience, strong music niche
 
-**📩 Step 3: Contact Influencers & Negotiate Deals**
+**Step 3: Contact Influencers & Negotiate Deals**
 Who to reach out to:
 -Influencer Management Agencies (for big YouTubers like 24 News HD & Dua Lipa)
 -Direct Email/DM for smaller creators (Dan Rhodes, DanTDM, NoCopyrightSounds)
@@ -838,28 +838,28 @@ Negotiation strategy:
 -Affiliate Deals (lower upfront fees in exchange for revenue share)
 -Performance-based pricing (pay more if sales exceed targets)
 
-**🎥 Step 4: Develop Creative Content & Messaging**
+**Step 4: Develop Creative Content & Messaging**
 -Video scripts & key talking points
 -Highlight product benefits clearly
 -Create a sense of urgency (limited-time offers, discounts)
 -Call-to-action (CTA) linking to purchase page
 
-💡 Example CTA:
+Example CTA:
 "Click the link below to get 20% OFF today! 🎉 Don’t miss out!"
 
-**📅 Step 5: Launch & Promote Campaign**
+**Step 5: Launch & Promote Campaign**
 -Pre-launch teasers (social media, influencer posts)
 -YouTube ads boosting (if extra budget is available)
 -Monitor audience reactions & engagement
 -Leverage UGC (User-Generated Content) for more credibility
 
-**📊 Step 6: Track Performance & Optimize**
+**Step 6: Track Performance & Optimize**
 -Monitor KPIs:
 
--Conversion rate 🔥
--Total sales & revenue 📈
+-Conversion rate 
+-Total sales & revenue 
 -Engagement (likes, shares, comments)
--Customer feedback 📝
+-Customer feedback 
 -Use Analytics Tools:
 
 -Google Analytics
@@ -870,12 +870,12 @@ Negotiation strategy:
 -If high engagement → Scale up the campaign
 -If low conversion → Adjust messaging & CTAs
 
-**🚀 Step 7: Scale Successful Strategies**
+**Step 7: Scale Successful Strategies**
 -Double down on best-performing influencers
 -Expand to TikTok, Instagram, or Shorts for more reach
 -Offer influencers affiliate links for long-term partnerships
 
-📌 Final Recommendations
+Final Recommendations
 -Start with 24 News HD + Dan Rhodes (Best ROI)
 -Monitor and optimize for higher conversion rates
 -Expand to other platforms if the campaign is successful
